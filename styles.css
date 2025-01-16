@@ -523,9 +523,9 @@ h1 {
     position: absolute;
     justify-content: center;
     align-items: center;
-    width: 260px;
+    width: 160px;
     top: 30px;
-    right: -242px;
+    left: 33px;
 }
 
 .lolz img {
