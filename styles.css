@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 * {
     font-family: "Open Sans", sans-serif;
     font: 400;
     box-sizing: border-box;
     user-select: none;
+    text-decoration: none;
 }
 
   
@@ -19,7 +19,6 @@ body {
     margin: 0;
     padding: 0;
     background: rgb(39, 39, 43);
-    background-repeat: no-repeat;
     overflow: hidden;
 }
 
@@ -526,7 +525,7 @@ h1 {
     align-items: center;
     width: 260px;
     top: 30px;
-    left: 15px;
+    right: -242px;
 }
 
 .lolz img {
@@ -553,7 +552,7 @@ h1 {
     align-items: center;
     width: 260px;
     top: 60px;
-    left: 39px;
+    left: 38px;
 }
 
 .spotify img {
@@ -579,7 +578,7 @@ h1 {
     justify-content: center;
     align-items: center;
     width: 360px;
-    left: 8px;
+    left: 25px;
 }
 
 .vscode img {
